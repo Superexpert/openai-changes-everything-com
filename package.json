@@ -1,0 +1,32 @@
+{
+  "name": "openai-changes-everything-com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bundle exec jekyll serve",
+    "tailwind": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/tailwind_compiled.css",
+    "tailwind:watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/tailwind_compiled.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superexpert/openai-changes-everything-com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14"
+  }
+}
