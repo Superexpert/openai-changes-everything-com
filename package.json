@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "bundle exec jekyll serve",
-    "tailwind": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/tailwind_compiled.css",
+    "tailwind": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/tailwind_compiled.css -c ./tailwind.config.js",
     "tailwind:watch": "npx @tailwindcss/cli -i ./assets/css/tailwind.css -o ./assets/css/tailwind_compiled.css --watch"
   },
   "repository": {
@@ -20,8 +20,8 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.14"

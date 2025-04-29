@@ -1,0 +1,251 @@
+- episode: 28
+  id: "how-ai-agents-will-take-over-jobs-requiring-human-intelligence"
+  title: "How AI Agents Will Take Over Jobs Requiring Human Intelligence"
+  guest_name: "Harneet Singh"
+  guest_affiliation: "Founder, Rabbitt.AI"
+  youtube_id: "3-_mkgSLUC0"
+  summary: "Exploring the rise of AI agents and their impact on employment."
+  popular: true
+
+- episode: 27
+  id: "practical-rai-for-companies"
+  title: "Practical RAI for Companies"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "pfiFFEt9zxU"
+  summary: "Discussing practical implementations of Responsible AI for businesses."
+  popular: false
+
+- episode: 26
+  id: "do-we-owe-chatgpt-the-same-care-as-animals"
+  title: "Do We Owe ChatGPT the Same Care as Animals?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "bWan-oEs8DM"
+  summary: "An ethical discussion on AI consciousness and care."
+  popular: true
+
+- episode: 25
+  id: "will-github-copilot-make-software-engineers-obsolete"
+  title: "Will GitHub Copilot Make Software Engineers Obsolete?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "MXWsmM4QrHw"
+  summary: "Exploring GitHub Copilot's implications for software developers."
+  popular: true
+
+- episode: 24
+  id: "cosmicai-revolutionizing-astronomy-with-artificial-intelligence"
+  title: "CosmicAI: Revolutionizing Astronomy with Artificial Intelligence"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "QJqS8-tlORQ"
+  summary: "How AI is changing the field of astronomy."
+  popular: true
+
+- episode: 23
+  id: "ai-will-make-hiring-fairer"
+  title: "AI Will Make Hiring Fairer"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "NAoKWf-9XTY"
+  summary: "Discussing AI’s role in reducing bias in hiring."
+  popular: false
+
+- episode: 22
+  id: "will-ai-steal-your-job"
+  title: "Will AI Steal Your Job?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "SJVkLThxPgA"
+  summary: "Analyzing the impact of AI on job security."
+  popular: false
+
+- episode: 21
+  id: "how-ai-will-transform-how-college-students-learn"
+  title: "How AI Will Transform How College Students Learn"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "Jtyjyx-UAdo"
+  summary: "The transformative potential of AI in higher education."
+  popular: true
+
+- episode: 20
+  id: "using-ai-to-combat-disinformation-and-misinformation"
+  title: "Using AI to Combat Disinformation and Misinformation"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "j2AnGa40nvc"
+  summary: "Leveraging AI to fight misinformation."
+  popular: true
+
+- episode: 19
+  id: "chatgpt-is-a-confabulator"
+  title: "ChatGPT is a Confabulator"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "BaGsg40tPdM"
+  summary: "Examining the limitations and pitfalls of ChatGPT."
+  popular: false
+
+- episode: 18
+  id: "using-ai-to-solve-world-hunger"
+  title: "Using AI to Solve World Hunger"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "uYnpFwuG7dY"
+  summary: "Exploring how AI could address global hunger."
+  popular: false
+
+- episode: 17
+  id: "unleashing-generative-ai-in-the-enterprise"
+  title: "Unleashing Generative AI in the Enterprise"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "lbz5l0ipm9s"
+  summary: "Deploying generative AI solutions at enterprise scale."
+  popular: false
+
+- episode: 16
+  id: "ai-reveals-that-the-world-is-unexplainable"
+  title: "AI Reveals that the World is Unexplainable"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "aW8OyQpdqZ4"
+  summary: "Discussing AI insights on the limits of human understanding."
+  popular: true
+
+- episode: 15
+  id: "creating-an-ai-agent-marketplace"
+  title: "Creating an AI Agent Marketplace"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "_Sx6kqqAXaM"
+  summary: "Building marketplaces for AI-driven agents."
+  popular: false
+
+- episode: 14
+  id: "clone-yourself-a-thousand-times-with-ai"
+  title: "Clone Yourself a Thousand Times with AI"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "HQ3KoFd49zY"
+  summary: "Exploring AI-powered personal replicas."
+  popular: true
+
+- episode: 13
+  id: "will-ai-kill-us-all"
+  title: "Will AI Kill Us All?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "ZzYS_4hFwLQ"
+  summary: "Examining existential risks posed by AI."
+  popular: false
+
+- episode: 12
+  id: "can-you-trust-ai-to-analyze-your-data"
+  title: "Can You Trust AI to Analyze Your Data?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "64asJghZZ1E"
+  summary: "Evaluating AI reliability in data analysis."
+  popular: false
+
+- episode: 11
+  id: "why-conscious-ai-is-inevitable"
+  title: "Why Conscious AI is Inevitable"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "KcrBh-_K-3k"
+  summary: "Discussing the progression toward sentient AI."
+  popular: true
+
+- episode: 10
+  id: "using-ai-to-deliver-over-a-million-pizzas-a-day"
+  title: "Using AI to Deliver Over a Million Pizzas a Day"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "-i-TjnUbwM4"
+  summary: "Scaling AI logistics for food delivery."
+  popular: false
+
+- episode: 9
+  id: "could-chatgpt-be-conscious"
+  title: "Could ChatGPT Be Conscious?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "JpZEEZLTV-I"
+  summary: "Investigating the consciousness of ChatGPT."
+  popular: true
+
+- episode: 8
+  id: "using-ai-to-reproduce-lost-voices"
+  title: "Using AI to Reproduce Lost Voices"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "TBnP6wEcf0k"
+  summary: "Reviving historic voices with AI."
+  popular: false
+
+- episode: 7
+  id: "ai-will-transform-reading"
+  title: "AI Will Transform Reading"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "reJx9qK_jKo"
+  summary: "How AI enhances reading experiences."
+  popular: true
+
+- episode: 6
+  id: "should-you-trust-chatgpt-more-than-your-doctor"
+  title: "Should You Trust ChatGPT More Than Your Doctor?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "2JMTyLIC1Nw"
+  summary: "Comparing AI advice to medical professionals."
+  popular: true
+
+- episode: 5
+  id: "the-future-of-ai-writing-detection-software"
+  title: "The Future of AI-Writing Detection Software"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "4-UxGOjIN0g"
+  summary: "The evolution of AI in detecting generated text."
+  popular: true
+
+- episode: 4
+  id: "does-chatgpt-make-homework-obsolete"
+  title: "Does ChatGPT Make Homework Obsolete?"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "qHmcLH497hc"
+  summary: "The impact of AI on student assignments."
+  popular: true
+
+- episode: 3
+  id: "ignoring-responsible-ai-could-cost-your-company-millions"
+  title: "Ignoring Responsible AI Could Cost Your Company Millions"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "0CQ6-jsLAvs"
+  summary: "Financial risks of neglecting AI ethics."
+  popular: true
+
+- episode: 2
+  id: "forms-are-dead-conversations-are-the-future"
+  title: "Forms are Dead, Conversations are the Future"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "bM97M0k17jw"
+  summary: "Transitioning from static forms to conversational interfaces."
+  popular: false
+
+- episode: 1
+  id: "the-ai-alignment-problem-and-human-extinction"
+  title: "The AI Alignment Problem and Human Extinction"
+  guest_name: "Guest Name"
+  guest_affiliation: "Guest Affiliation"
+  youtube_id: "PUIXnNt4u5o"
+  summary: "Discussing alignment challenges and existential risk."
+  popular: false

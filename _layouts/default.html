@@ -1,21 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.description }}">
-    <meta property="og:image" content="https://superexpert.ai/assets/home/og-image2.png" />
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta
+      property="og:image"
+      content="https://superexpert.ai/assets/home/og-image2.png"
+    />
     <meta property="og:url" content="https://superexpert.ai/" />
-    <link rel="stylesheet" href="{{ '/assets/css/tailwind_compiled.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/zenburn.css' | relative_url }}">
-</head>
-<body>
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/tailwind_compiled.css' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/zenburn.css' | relative_url }}"
+    />
+  </head>
+  <body>
+    <header class="py-4 px-6">
+      <div class="container mx-auto flex items-center justify-between">
+        <!-- Logo: Always visible -->
+        <a href="/" class="text-xl font-bold text-orange-500">
+          OpenAI Changes Everything
+        </a>
 
+        <!-- Special homepage links (conditional) -->
+        <nav class="hidden md:flex space-x-4 text-gray-600">
+          <a
+            href="https://www.youtube.com/channel/UCapl1e6UdNZsCkjvCIk9p4A?sub_confirmation=1"
+            class="hover:text-orange-500"
+            >Subscribe</a
+          >
 
-        {{ content }}
+          {% if page.is_homepage %}
+          <a href="#popular-episodes" class="hover:text-orange-500">Episodes</a>
+          {% endif %}
+        </nav>
+      </div>
+    </header>
 
-</body>
+    {{ content }}
+
+    <footer class="text-sm text-gray-500 py-4 text-center">
+      &copy; 2025 OpenAI Changes Everything Podcast · Austin, TX
+    </footer>
+  </body>
 </html>

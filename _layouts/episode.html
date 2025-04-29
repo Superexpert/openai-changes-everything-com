@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign episode = site.data.episodes | where: "id", page.episode_id | first %}
+
+<section class="py-16 px-4 bg-white">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-4xl font-bold text-gray-800 mb-6">{{ episode.title }}</h1>
+
+    <div class="aspect-video mb-6">
+      <iframe
+        src="https://www.youtube.com/embed/{{ episode.youtube_id }}"
+        class="w-full h-full"
+        title="{{ episode.title }}"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <p class="text-lg text-gray-700 mb-4">
+      Featuring <strong>{{ episode.guest_name }}</strong>, {{ episode.guest_affiliation }}
+    </p>
+
+    <div class="prose prose-lg text-gray-600">
+      {{ content }}
+    </div>
+  </div>
+</section>
