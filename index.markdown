@@ -29,6 +29,9 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
 <section class="py-16 px-4 bg-white">
   <div class="max-w-6xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-8">Featured Guests</h2>
+    <div class="text-center mb-8 text-gray-600 italic">
+      Honored to have hosted distinguished thought leaders and innovators including:
+    </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
       <!-- Guest Card -->
       <div class="flex flex-col items-center">
@@ -80,7 +83,7 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
   </div>
 </section>
 
-<section id="latest-episode" class="py-16 px-4 bg-gray-50">
+<section id="latest-episode" class="bg-gray-50 border-t border-gray-200 py-16">
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-8">Latest Episode</h2>
     <div class="aspect-video mb-8 shadow-lg rounded-lg overflow-hidden">
@@ -105,7 +108,7 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
   </div>
 </section>
 
-<section id="popular-episodes" class="py-16 px-4 bg-white">
+<section id="popular-episodes" class="px-4 bg-white border-t border-gray-200 py-16">
   <div class="max-w-6xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-10">Popular Episodes</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -133,7 +136,7 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
   </div>
 </section>
 
-<section id="about" class="py-16 px-4 bg-gray-50">
+<section id="about" class="py-16 px-4 bg-gray-50 border-t border-gray-200">
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-6">About the Podcast</h2>
     <p class="text-lg text-gray-700 leading-relaxed mb-6">
@@ -149,7 +152,7 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
 </section>
 
 
-<section id="appear-on-show" class="py-16 px-4 bg-orange-50">
+<section id="appear-on-show" class="py-16 px-4 bg-orange-50 border-t border-gray-200">
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-4">Interested in Appearing on the Show?</h2>
     <p class="text-lg text-gray-700 mb-6">
