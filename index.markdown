@@ -3,11 +3,6 @@ layout: default
 is_homepage: true
 title: "OpenAI Changes Everything"
 description: "Podcast on how Generative AI is transforming the future. Interviews with startup founders, philosophers, and computer scientists"
-featured_video_id: "3-_mkgSLUC0"
-featured_video_title: "How AI Agents Will Take Over Jobs Requiring Human Intelligence"
-featured_video_guest_name: "Harneet Singh"
-featured_video_guest_affiliation: "Founder, Rabbitt.AI"
-featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requiring-human-intelligence/"
 ---
 
 <main>
@@ -83,26 +78,30 @@ featured_video_details_url: "./episodes/how-ai-agents-will-take-over-jobs-requir
   </div>
 </section>
 
-<section id="latest-episode" class="bg-gray-50 border-t border-gray-200 py-16">
+
+{% assign featured_video = site.data.episodes[0] %}
+
+<section id="latest-episode" class="py-16 px-4 bg-gray-50">
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-8">Latest Episode</h2>
-    <div class="aspect-video mb-8 shadow-lg rounded-lg overflow-hidden">
-      <iframe 
+    <!-- Proper Aspect Ratio Container -->
+    <div class="aspect-video shadow-lg rounded-lg overflow-hidden mb-8">
+      <iframe
         class="w-full h-full"
-        src="https://www.youtube.com/embed/{{ page.featured_video_id }}" 
-        title="{{ page.featured_video_title }}"
+        src="https://www.youtube.com/embed/{{ featured_video.youtube_id }}"
+        title="{{ featured_video.title }}"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
       </iframe>
     </div>
     <h3 class="text-2xl font-semibold text-orange-500 mb-2">
-      {{ page.featured_video_title }}
+      {{ featured_video.title }}
     </h3>
     <p class="text-gray-600 mb-6">
-      Featuring {{ page.featured_video_guest_name }}, {{ page.featured_video_guest_affiliation }}
+      Featuring {{ featured_video.guest_name }}, {{ featured_video.guest_affiliation }}
     </p>
-    <a href="{{ page.featured_video_details_url }}" class="inline-block bg-orange-500 text-white px-8 py-3 rounded-full shadow hover:bg-orange-600 transition duration-300">
+    <a href="/episodes/{{ featured_video.id }}" class="inline-block bg-orange-500 text-white px-8 py-3 rounded-full shadow hover:bg-orange-600 transition duration-300">
       View Episode Details →
     </a>
   </div>
