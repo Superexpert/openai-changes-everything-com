@@ -1,29 +1,79 @@
----
-layout: default
----
-
 {% assign episode = site.data.episodes | where: "id", page.episode_id | first %}
 
-<section class="py-16 px-4 bg-white">
-  <div class="max-w-4xl mx-auto">
-    <h1 class="text-4xl font-bold text-gray-800 mb-6">{{ episode.title }}</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+  <!-- Dynamic Title -->
+  <title>{{ episode.title }} | OpenAI Changes Everything</title>
 
-    <div class="aspect-video mb-6">
-      <iframe
-        src="https://www.youtube.com/embed/{{ episode.youtube_id }}"
-        class="w-full h-full"
-        title="{{ episode.title }}"
-        frameborder="0"
-        allowfullscreen
-      ></iframe>
+  <!-- Dynamic Meta Description -->
+  <meta name="description" content="{{ episode.summary | default: "Exploring transformative ideas and innovations around Generative AI." }}">
+
+  <!-- Open Graph tags for social media -->
+  <meta property="og:title" content="{{ episode.title }} | OpenAI Changes Everything">
+  <meta property="og:description" content="{{ episode.summary | default: "Exploring transformative ideas and innovations around Generative AI." }}">
+  <meta property="og:image" content="https://img.youtube.com/vi/{{ episode.youtube_id }}/maxresdefault.jpg">
+  <meta property="og:type" content="video.other">
+  <meta property="og:url" content="{{ site.url }}/episodes/{{ episode.id }}">
+
+  <link rel="stylesheet" href="/assets/css/tailwind_compiled.css">
+</head>
+
+<body class="font-sans">
+  
+    <header class="py-4 px-6">
+        <div class="container mx-auto flex items-center justify-between">
+          <!-- Logo: Always visible -->
+          <a href="/" class="text-xl font-bold text-orange-500">
+            OpenAI Changes Everything
+          </a>
+  
+          <!-- Special homepage links (conditional) -->
+          <nav class="hidden md:flex space-x-4 text-gray-600">
+            <a
+              href="https://www.youtube.com/channel/UCapl1e6UdNZsCkjvCIk9p4A?sub_confirmation=1"
+              class="hover:text-orange-500"
+              >Subscribe</a
+            >
+  
+            {% if page.is_homepage %}
+            <a href="#popular-episodes" class="hover:text-orange-500">Episodes</a>
+            {% endif %}
+          </nav>
+        </div>
+      </header>
+  
+
+  <!-- Episode Content -->
+  <section class="py-16 px-4 bg-white">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-4xl font-bold text-gray-800 mb-6">{{ episode.title }}</h1>
+
+      <div class="aspect-video mb-6">
+        <iframe
+          src="https://www.youtube.com/embed/{{ episode.youtube_id }}"
+          class="w-full h-full"
+          title="{{ episode.title }}"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <p class="text-lg text-gray-700 mb-4">
+        Featuring <strong>{{ episode.guest_name }}</strong>, {{ episode.guest_affiliation }}
+      </p>
+
+      <article class="prose prose-lg text-gray-600">
+        {{ content }}
+      </article>
     </div>
+  </section>
 
-    <p class="text-lg text-gray-700 mb-4">
-      Featuring <strong>{{ episode.guest_name }}</strong>, {{ episode.guest_affiliation }}
-    </p>
+  <footer class="text-sm text-gray-500 py-4 text-center">
+    &copy; 2025 OpenAI Changes Everything Podcast · Austin, TX
+  </footer>
 
-    <div class="prose prose-lg text-gray-600">
-      {{ content }}
-    </div>
-  </div>
-</section>
+</body>
+</html>
