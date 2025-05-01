@@ -6,6 +6,14 @@ description: "Podcast on how Generative AI is transforming the future. Interview
 ---
 
 <main>
+
+<section class="py-6 px-4 bg-yellow-50">
+  <div class="max-w-4xl mx-auto text-center text-yellow-700">
+    <p class="font-medium">
+      <strong>Note:</strong> "OpenAI Changes Everything" is now the <strong>Move 37 Podcast</strong>. Same insightful content—new name!
+    </p>
+  </div>
+</section>
   <section id="hero" class="bg-gradient-to-r from-gray-50 to-gray-100 py-24 px-4 text-center">
     <div class="max-w-4xl mx-auto">
       <h1 class="text-5xl font-extrabold text-gray-800 mb-6">
