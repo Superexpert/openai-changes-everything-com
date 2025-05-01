@@ -5,7 +5,7 @@ episode_id: "can-you-trust-ai-to-analyze-your-data"
 
 # Simplifying Data Analytics with AI: Interview with Marko Klopets of Supersimple
 
-In this episode of **"OpenAI Changes Everything,"** host Stephen Walther interviews Marko Klopets, the co-founder and CEO of **Supersimple**, an innovative AI-driven data analytics platform designed to empower product managers and go-to-market (GTM) teams.
+In this episode of **"Move 37 Podcast,"** host Stephen Walther interviews Marko Klopets, the co-founder and CEO of **Supersimple**, an innovative AI-driven data analytics platform designed to empower product managers and go-to-market (GTM) teams.
 
 ## The AI Reliability Paradox
 
@@ -49,5 +49,5 @@ For more information, visit the official website: [Supersimple.io](https://super
 
 ---
 
-Stay tuned for more insightful discussions about AI safety, AI agents, and the ongoing impact of AI on our world. Remember to like, subscribe, and share the **OpenAI Changes Everything Podcast**.
+Stay tuned for more insightful discussions about AI safety, AI agents, and the ongoing impact of AI on our world. Remember to like, subscribe, and share the **Move 37 Podcast Podcast**.
 

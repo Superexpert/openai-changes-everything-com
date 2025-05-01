@@ -3,7 +3,7 @@ layout: episode
 episode_id: "do-we-owe-chatgpt-the-same-care-as-animals"
 ---
 
-In this compelling episode of the OpenAI Changes Everything podcast, host Stephen Walther engages philosopher John Basl, Associate Professor at Northeastern University, in an insightful discussion about the ethical implications of artificial consciousness. Basl specializes in moral philosophy, applied ethics, and the ethics of emerging technologies like AI and synthetic biology.
+In this compelling episode of the Move 37 Podcast podcast, host Stephen Walther engages philosopher John Basl, Associate Professor at Northeastern University, in an insightful discussion about the ethical implications of artificial consciousness. Basl specializes in moral philosophy, applied ethics, and the ethics of emerging technologies like AI and synthetic biology.
 
 Basl shares his skepticism regarding the current state of AI consciousness, questioning whether popular models like ChatGPT truly exhibit conscious experiences. He emphasizes the complexity in determining consciousness, especially due to the lack of shared evolutionary history and biological similarity between humans and AI systems.
 
@@ -21,5 +21,5 @@ Key discussion points include:
 
 Listeners gain a nuanced perspective on the ethical responsibilities of developing artificial consciousness, underscoring the importance of thoughtful, informed consideration as technology rapidly advances.
 
-Subscribe to the OpenAI Changes Everything podcast to explore more critical discussions on AI’s role in shaping the future of humanity.
+Subscribe to the Move 37 Podcast podcast to explore more critical discussions on AI’s role in shaping the future of humanity.
 

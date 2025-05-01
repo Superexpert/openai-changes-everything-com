@@ -3,7 +3,7 @@ layout: episode
 episode_id: "cosmicai-revolutionizing-astronomy-with-artificial-intelligence"
 ---
 
-In this episode of the “OpenAI Changes Everything” podcast, host Stephen Walther interviews Professor Stella Offner, an astrophysicist and Director of the CosmicAI Initiative at the University of Texas at Austin. They discuss how artificial intelligence (AI) is transforming the field of astronomy, particularly in understanding star formation and exploring the cosmos.
+In this episode of the “Move 37 Podcast” podcast, host Stephen Walther interviews Professor Stella Offner, an astrophysicist and Director of the CosmicAI Initiative at the University of Texas at Austin. They discuss how artificial intelligence (AI) is transforming the field of astronomy, particularly in understanding star formation and exploring the cosmos.
 
 Professor Offner describes how AI helps scientists handle enormous volumes of astronomical data and accelerates scientific research. She highlights three key ways AI is currently used:
 1.	Identifying Cosmic Phenomena: AI models are trained on large-scale simulations (such as those produced by StarForge, a supercomputer simulation of star formation) to identify structures like “bubbles” and outflows, aiding in the interpretation of real astronomical observations.

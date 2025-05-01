@@ -5,7 +5,7 @@ episode_id: "unleashing-generative-ai-in-the-enterprise"
 
 # How Enterprises Are Leveraging Generative AI: Insights from Sai Suresh of Quadrant Technologies
 
-In this episode of **OpenAI Changes Everything**, host Stephen Walther speaks with Sai Suresh, Senior Vice President of Global Sales and Solutions at Quadrant Technologies, about the transformative power of generative AI in enterprise settings.
+In this episode of **Move 37 Podcast**, host Stephen Walther speaks with Sai Suresh, Senior Vice President of Global Sales and Solutions at Quadrant Technologies, about the transformative power of generative AI in enterprise settings.
 
 ## Episode Highlights
 

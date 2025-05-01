@@ -7,7 +7,7 @@ episode_id: "should-you-trust-chatgpt-more-than-your-doctor"
 
 ## Episode Overview
 
-In this compelling episode of **"OpenAI Changes Everything,"** host Stephen Walther speaks with Dr. Robert Pearl, former CEO of Kaiser Permanente, America's largest nonprofit healthcare provider. Dr. Pearl discusses the transformative potential of artificial intelligence (AI) in healthcare, exploring critical questions such as whether AI should be trusted with life-and-death medical decisions and if platforms like ChatGPT are reliable for medical advice.
+In this compelling episode of **"Move 37 Podcast,"** host Stephen Walther speaks with Dr. Robert Pearl, former CEO of Kaiser Permanente, America's largest nonprofit healthcare provider. Dr. Pearl discusses the transformative potential of artificial intelligence (AI) in healthcare, exploring critical questions such as whether AI should be trusted with life-and-death medical decisions and if platforms like ChatGPT are reliable for medical advice.
 
 ## About Dr. Robert Pearl
 
@@ -53,5 +53,5 @@ Dr. Pearl concludes by urging listeners and healthcare professionals to actively
 
 - **Book:** [*ChatGPT MD* by Dr. Robert Pearl](https://www.amazon.com)
 - **Website:** [RobertPearlMD.com](https://www.robertpearlmd.com)
-- **Podcast:** OpenAI Changes Everything (Subscribe for updates!)
+- **Podcast:** Move 37 Podcast (Subscribe for updates!)
 

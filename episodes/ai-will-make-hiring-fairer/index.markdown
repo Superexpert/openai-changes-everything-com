@@ -3,7 +3,7 @@ layout: episode
 episode_id: "ai-will-make-hiring-fairer"
 ---
 
-In this episode of the “OpenAI Changes Everything” podcast, host Stephen Walther speaks with Tim Rich, who previously led Responsible AI initiatives at Indeed, the world’s largest job site. They discuss how Responsible AI can be much more than just preventing harm—it can actively transform society by promoting fairness and equity.
+In this episode of the “Move 37 Podcast” podcast, host Stephen Walther speaks with Tim Rich, who previously led Responsible AI initiatives at Indeed, the world’s largest job site. They discuss how Responsible AI can be much more than just preventing harm—it can actively transform society by promoting fairness and equity.
 
 Tim shares insights from his experiences at both Microsoft and Indeed, highlighting the practical challenges of identifying and reducing biases within AI-driven systems. At Microsoft, he observed biased customer ratings influenced by cultural prejudices, prompting systemic improvements. At Indeed, he tackled similar issues in hiring, ensuring fairness in candidate ranking and job matching through rigorous auditing processes and regulatory compliance.
 

@@ -5,7 +5,7 @@ episode_id: "ignoring-responsible-ai-could-cost-your-company-millions"
 
 # Understanding Responsible AI Regulations: Navigating the EU AI Act and Beyond
 
-In this episode of the *OpenAI Changes Everything* podcast, host Steven Walther speaks with **Hadassah Drukarch**, Director of Policy and Delivery at the Responsible AI Institute. They discuss the complexities of Responsible AI regulations, including the EU AI Act, and provide practical guidance for businesses navigating this rapidly evolving regulatory landscape.
+In this episode of the *Move 37 Podcast* podcast, host Steven Walther speaks with **Hadassah Drukarch**, Director of Policy and Delivery at the Responsible AI Institute. They discuss the complexities of Responsible AI regulations, including the EU AI Act, and provide practical guidance for businesses navigating this rapidly evolving regulatory landscape.
 
 ## Key Points:
 
@@ -63,5 +63,5 @@ For more insights into Responsible AI, listeners are encouraged to follow commun
 
 ---
 
-For more details, subscribe to the [*OpenAI Changes Everything* podcast](https://openai.com/podcast) for future episodes on AI's role in healthcare, education, and ethics.
+For more details, subscribe to the [*Move 37 Podcast* podcast](https://move37podcast.ai) for future episodes on AI's role in healthcare, education, and ethics.
 

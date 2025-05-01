@@ -4,7 +4,7 @@ episode_id: "will-ai-steal-your-job"
 ---
 
 
-In this episode of the “OpenAI Changes Everything” podcast, host Stephen Walther speaks with Dan Turchin, co-founder and CEO of PeopleReign and host of the popular podcast “AI and the Future of Work.” They discuss the potential of AI to revolutionize jobs positively by automating tedious and repetitive tasks, ultimately empowering employees to focus on more meaningful and fulfilling aspects of their work.
+In this episode of the “Move 37 Podcast” podcast, host Stephen Walther speaks with Dan Turchin, co-founder and CEO of PeopleReign and host of the popular podcast “AI and the Future of Work.” They discuss the potential of AI to revolutionize jobs positively by automating tedious and repetitive tasks, ultimately empowering employees to focus on more meaningful and fulfilling aspects of their work.
 
 Key Points Covered:
 * Dan’s Vision for AI:

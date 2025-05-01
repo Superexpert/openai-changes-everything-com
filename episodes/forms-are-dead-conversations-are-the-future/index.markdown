@@ -5,7 +5,7 @@ episode_id: "forms-are-dead-conversations-are-the-future"
 
 # Podcast Episode Summary: "Forms are Dead, Conversations are the Future" – Interview with Nicolas Grenié from Typeform
 
-In this episode of the "OpenAI Changes Everything" podcast, host Stephen Walther speaks with Nicolas Grenié, a developer advocate at Typeform, about how conversational AI is transforming online forms.
+In this episode of the "Move 37 Podcast" podcast, host Stephen Walther speaks with Nicolas Grenié, a developer advocate at Typeform, about how conversational AI is transforming online forms.
 
 ## Episode Highlights
 

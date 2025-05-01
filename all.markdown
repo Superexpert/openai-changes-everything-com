@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OpenAI Changes Everything - All Episodes"
+title: "Move 37 Podcast - All Episodes"
 description: "Podcast on how Generative AI is transforming the future. Interviews with startup founders, philosophers, and computer scientists"
 ---
 

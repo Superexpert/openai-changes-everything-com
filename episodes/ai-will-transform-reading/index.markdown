@@ -5,7 +5,7 @@ episode_id: "ai-will-transform-reading"
 
 # How Rebind AI is Revolutionizing the Reading Experience with Generative AI
 
-In this episode of the *OpenAI Changes Everything* podcast, host Stephen Walther explores how the innovative AI startup **Rebind** aims to transform our relationship with literature and philosophy through advanced generative AI.
+In this episode of the *Move 37 Podcast* podcast, host Stephen Walther explores how the innovative AI startup **Rebind** aims to transform our relationship with literature and philosophy through advanced generative AI.
 
 ## What is Rebind?
 

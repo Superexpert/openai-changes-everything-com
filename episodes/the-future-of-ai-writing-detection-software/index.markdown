@@ -5,7 +5,7 @@ episode_id: "the-future-of-ai-writing-detection-software"
 
 # How Turnitin's AI Detection is Shaping the Future of Education
 
-In this episode of the **OpenAI Changes Everything** podcast, host Stephen Walther interviews **Dr. Eric Wang**, Vice President of AI at **Turnitin**, about the evolving role of AI in education, particularly Turnitin's groundbreaking AI writing detection software.
+In this episode of the **Move 37 Podcast** podcast, host Stephen Walther interviews **Dr. Eric Wang**, Vice President of AI at **Turnitin**, about the evolving role of AI in education, particularly Turnitin's groundbreaking AI writing detection software.
 
 ## What is Turnitin's AI Writing Detection Software?
 
@@ -42,5 +42,5 @@ To effectively integrate AI, Dr. Wang suggests:
 
 Ultimately, Dr. Wang believes that while AI offers immense potential, the core educational mission remains fostering human qualities—empathy, creativity, curiosity, and collaboration. He encourages educators to lean into these attributes to better prepare students for a future where human-AI collaboration becomes the norm.
 
-For further insights, visit [Turnitin](https://www.turnitin.com/) and listen to more episodes of the **OpenAI Changes Everything** podcast.
+For further insights, visit [Turnitin](https://www.turnitin.com/) and listen to more episodes of the **Move 37 Podcast** podcast.
 

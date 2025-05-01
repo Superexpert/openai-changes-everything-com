@@ -3,9 +3,9 @@ layout: episode
 episode_id: "the-ai-alignment-problem-and-human-extinction"
 ---
 
-# AI Alignment Problem: Insights from Mako Yass | OpenAI Changes Everything Podcast
+# AI Alignment Problem: Insights from Mako Yass | Move 37 Podcast Podcast
 
-In this insightful episode of the **OpenAI Changes Everything Podcast**, host **Stephen Walther** welcomes guest **Mako Yass**, winner of the Future of Life Institute’s 2022 Worldbuilding Competition, to discuss the AI alignment problem—the critical challenge of ensuring superintelligent AI systems remain beneficial to humanity.
+In this insightful episode of the **Move 37 Podcast Podcast**, host **Stephen Walther** welcomes guest **Mako Yass**, winner of the Future of Life Institute’s 2022 Worldbuilding Competition, to discuss the AI alignment problem—the critical challenge of ensuring superintelligent AI systems remain beneficial to humanity.
 
 ## What is the AI Alignment Problem?
 Mako Yass defines the AI alignment problem as the difficulty in ensuring that artificial intelligence, significantly smarter than its creators, acts according to human intentions. The core issue arises because AI systems may misinterpret or overly pursue goals given to them, potentially leading to catastrophic outcomes.

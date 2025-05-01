@@ -5,7 +5,7 @@ episode_id: "does-chatgpt-make-homework-obsolete"
 
 # AI and the Future of Education: Key Insights from Preston Shaw
 
-In this week's episode of *OpenAI Changes Everything*, host Stephen Walther sits down with Priten Shah, author of the bestselling book *AI and the Future of Education* and CEO of Pedagogy.Cloud. The discussion centers around the transformative impact of generative AI on education and raises fundamental questions about the future of teaching, homework, assessments, and social-emotional learning.
+In this week's episode of *Move 37 Podcast*, host Stephen Walther sits down with Priten Shah, author of the bestselling book *AI and the Future of Education* and CEO of Pedagogy.Cloud. The discussion centers around the transformative impact of generative AI on education and raises fundamental questions about the future of teaching, homework, assessments, and social-emotional learning.
 
 ## Will AI Replace Teachers?
 

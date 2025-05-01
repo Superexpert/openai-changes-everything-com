@@ -5,7 +5,7 @@ episode_id: "using-ai-to-solve-world-hunger"
 
 # How AI is Tackling Food Waste and Supporting Sustainability Goals
 
-In this episode of **OpenAI Changes Everything**, host Stephen Walther speaks with Lawrence Stevens, co-founder and Chief Operating Officer of **Fridge Guide AI**, an innovative startup dedicated to reducing food waste through AI-driven solutions. Food waste is a massive global issue, with approximately 1.3 billion tons—around one-third of all food produced—being lost or wasted annually. In the U.S. alone, 30-40% of the food supply is wasted, significantly affecting grocery stores, food banks, and households.
+In this episode of **Move 37 Podcast**, host Stephen Walther speaks with Lawrence Stevens, co-founder and Chief Operating Officer of **Fridge Guide AI**, an innovative startup dedicated to reducing food waste through AI-driven solutions. Food waste is a massive global issue, with approximately 1.3 billion tons—around one-third of all food produced—being lost or wasted annually. In the U.S. alone, 30-40% of the food supply is wasted, significantly affecting grocery stores, food banks, and households.
 
 ## The Scale of Food Waste
 

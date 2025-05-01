@@ -5,7 +5,7 @@ episode_id: "how-ai-will-transform-how-college-students-learn"
 
 ## How AI Teaching Assistants Could Revolutionize Higher Education
 
-In this episode of the **"OpenAI Changes Everything"** podcast, host Stephen Walther interviews **Paul Truax**, the visionary co-founder and CEO of **Cognify**, a groundbreaking startup aiming to reshape higher education using personalized artificial intelligence. They discuss how Cognify's innovative platform leverages AI to create personalized, course-specific teaching assistants, revolutionizing the way college students interact with course material, learn new concepts, and succeed academically.
+In this episode of the **"Move 37 Podcast"** podcast, host Stephen Walther interviews **Paul Truax**, the visionary co-founder and CEO of **Cognify**, a groundbreaking startup aiming to reshape higher education using personalized artificial intelligence. They discuss how Cognify's innovative platform leverages AI to create personalized, course-specific teaching assistants, revolutionizing the way college students interact with course material, learn new concepts, and succeed academically.
 
 ### What is Cognify and How Does It Work?
 
@@ -82,7 +82,7 @@ Ultimately, Cognify’s ambitious goal is to redefine how students learn by prov
 
 **Listen and Learn More:**
 
-- **Podcast:** [OpenAI Changes Everything](https://www.openAIchangeseverything.com)
+- **Podcast:** [Move 37 Podcast](https://www.move37podcast.ai)
 - **Cognify:** Visit the official [Cognify website](https://cognify.ai/) to learn more about their innovative educational AI technology.
 
 **Keywords for SEO:**

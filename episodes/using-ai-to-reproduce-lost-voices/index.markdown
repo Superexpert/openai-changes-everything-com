@@ -5,7 +5,7 @@ episode_id: "using-ai-to-reproduce-lost-voices"
 
 # AI Voice Cloning: Opportunities and Dangers Explored
 
-In this engaging episode of the **OpenAI Changes Everything Podcast**, host Stephen Walther sits down with Charles Elwood, a Microsoft AI MVP and innovator known for leveraging cutting-edge AI to help people who have lost their voices due to illnesses like throat cancer or ALS.
+In this engaging episode of the **Move 37 Podcast Podcast**, host Stephen Walther sits down with Charles Elwood, a Microsoft AI MVP and innovator known for leveraging cutting-edge AI to help people who have lost their voices due to illnesses like throat cancer or ALS.
 
 ## Giving Voices Back with AI
 
@@ -45,5 +45,5 @@ Charles invites listeners to connect with him on LinkedIn, where he actively sha
 
 ---
 
-Stay tuned to the **OpenAI Changes Everything Podcast** for more episodes exploring transformative AI technologies, ethical questions, and groundbreaking applications.
+Stay tuned to the **Move 37 Podcast Podcast** for more episodes exploring transformative AI technologies, ethical questions, and groundbreaking applications.
 

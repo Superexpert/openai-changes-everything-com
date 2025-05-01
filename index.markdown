@@ -1,7 +1,7 @@
 ---
 layout: default
 is_homepage: true
-title: "OpenAI Changes Everything"
+title: "Move 37 Podcast"
 description: "Podcast on how Generative AI is transforming the future. Interviews with startup founders, philosophers, and computer scientists"
 ---
 
@@ -139,7 +139,7 @@ description: "Podcast on how Generative AI is transforming the future. Interview
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold text-gray-800 mb-6">About the Podcast</h2>
     <p class="text-lg text-gray-700 leading-relaxed mb-6">
-      Welcome to <strong class="text-orange-500">OpenAI Changes Everything</strong>, our weekly podcast that explores the transformative impact of OpenAI and Generative AI on humanity. We tackle crucial topics such as the <em>Alignment Problem</em>, <em>Responsible AI</em>, and the role of AI in education.
+      Welcome to <strong class="text-orange-500">Move 37 Podcast</strong>, our weekly podcast that explores the transformative impact of Generative AI on humanity. We tackle crucial topics such as the <em>Alignment Problem</em>, <em>Responsible AI</em>, and the role of AI in education.
     </p>
     <p class="text-lg text-gray-700 leading-relaxed mb-6">
       Each episode features <strong>expert insights</strong> and <strong>thought-provoking discussions</strong>, designed to keep you informed and inspired about the latest developments in AI and its profound implications for our future.
@@ -157,7 +157,7 @@ description: "Podcast on how Generative AI is transforming the future. Interview
     <p class="text-lg text-gray-700 mb-6">
       We're always looking for thought leaders, innovators, philosophers, computer scientists, and AI pioneers to share their insights. If you're interested in joining the conversation, please reach out!
     </p>
-    <a href="mailto:hello@openaichangeseverything.com"
+    <a href="mailto:hello@move37podcast.com"
        class="inline-block bg-orange-500 text-white px-8 py-3 rounded-full shadow hover:bg-orange-600 transition duration-300">
       Get in Touch →
     </a>

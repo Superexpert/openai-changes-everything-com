@@ -3,9 +3,9 @@ layout: episode
 episode_id: "clone-yourself-a-thousand-times-with-ai"
 ---
 
-# Digital Twins: Cloning Yourself with AI | OpenAI Changes Everything Podcast Summary
+# Digital Twins: Cloning Yourself with AI | Move 37 Podcast Podcast Summary
 
-In this episode of the **OpenAI Changes Everything** podcast, host **Stephen Walther** interviews **Hassan Raza**, co-founder and CEO of **Tavus**, a groundbreaking startup creating digital twin experiences through advanced generative AI technology. The conversation explores how digital twins can significantly alter how people interact, learn, and work.
+In this episode of the **Move 37 Podcast** podcast, host **Stephen Walther** interviews **Hassan Raza**, co-founder and CEO of **Tavus**, a groundbreaking startup creating digital twin experiences through advanced generative AI technology. The conversation explores how digital twins can significantly alter how people interact, learn, and work.
 
 ## What is a Digital Twin?
 
@@ -47,4 +47,4 @@ Discover more and explore creating your digital twin at [Tavus.io](https://tavus
 
 ---
 
-*Subscribe to the **OpenAI Changes Everything** podcast for more insights into how generative AI is transforming our world.*
+*Subscribe to the **Move 37 Podcast** podcast for more insights into how generative AI is transforming our world.*

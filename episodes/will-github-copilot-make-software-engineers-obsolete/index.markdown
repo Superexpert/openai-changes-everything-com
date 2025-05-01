@@ -3,7 +3,7 @@ layout: episode
 episode_id: "will-github-copilot-make-software-engineers-obsolete"
 ---
 
-In this episode of the “OpenAI Changes Everything” podcast, host Stephen Walther speaks with Ari LiVigni, a Senior Cloud Solutions Architect at GitHub, about how Generative AI, specifically GitHub Copilot, is transforming the future of coding.
+In this episode of the “Move 37 Podcast” podcast, host Stephen Walther speaks with Ari LiVigni, a Senior Cloud Solutions Architect at GitHub, about how Generative AI, specifically GitHub Copilot, is transforming the future of coding.
 
 They discuss how GitHub Copilot has become an essential tool for developers, dramatically enhancing productivity by automating mundane coding tasks and improving code quality. Ari emphasizes that despite these advancements, skilled developers and software architects remain essential because they provide strategic direction and deeper understanding of system-wide complexities—something AI can’t fully replicate yet.
 

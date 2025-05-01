@@ -10,7 +10,7 @@ episode_id: "creating-an-ai-agent-marketplace"
 **Platform:** [Agent.ai](https://agent.ai)
 
 ## Overview
-In this episode of "OpenAI Changes Everything," host Stephen Walther speaks with Andre Oprisan about Agent.ai, an innovative platform designed by former HubSpot co-founder and CTO Dharmesh Shah and other HubSpot innovators. Agent.ai aims to revolutionize the gig economy by creating an extensive marketplace of AI agents capable of automating tasks traditionally done by humans on platforms like Fiverr and Upwork.
+In this episode of "Move 37 Podcast," host Stephen Walther speaks with Andre Oprisan about Agent.ai, an innovative platform designed by former HubSpot co-founder and CTO Dharmesh Shah and other HubSpot innovators. Agent.ai aims to revolutionize the gig economy by creating an extensive marketplace of AI agents capable of automating tasks traditionally done by humans on platforms like Fiverr and Upwork.
 
 ## What Are AI Agents?
 Andre defines AI agents as semi-autonomous systems that handle multi-step tasks with minimal human oversight. Unlike simple large language model (LLM) prompts, these agents can execute complex, multi-stage processes, such as content research, social media posts, or competitive business analysis. While agents aren't fully autonomous, they significantly extend the capabilities of platforms like ChatGPT by performing structured tasks reliably.

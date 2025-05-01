@@ -1,21 +1,24 @@
-<header class="py-4 px-6">
+<header class="py-4 px-6 border-b border-gray-100 shadow-sm bg-white">
     <div class="container mx-auto flex items-center justify-between">
-      <!-- Logo: Always visible -->
-      <a href="/" class="text-xl font-bold text-orange-500">
-        OpenAI Changes Everything
-      </a>
-
-      <!-- Special homepage links (conditional) -->
-      <nav class="hidden md:flex space-x-4 text-gray-600">
-        <a
-          href="https://www.youtube.com/channel/UCapl1e6UdNZsCkjvCIk9p4A?sub_confirmation=1"
-          class="hover:text-orange-500">
+      
+      <!-- Logo and Tagline -->
+      <div class="flex flex-col md:flex-row md:items-center md:space-x-4">
+        <a href="/" class="text-2xl font-bold text-orange-500">
+          Move 37 Podcast
+        </a>
+        <span class="hidden md:inline-block text-gray-600 italic text-base">
+          Conversations with Leaders Shaping the AI Revolution
+        </span>
+      </div>
+  
+      <!-- Navigation -->
+      <nav class="flex items-center space-x-6 text-gray-700 text-sm uppercase font-medium">
+        <a href="https://www.youtube.com/channel/UCapl1e6UdNZsCkjvCIk9p4A?sub_confirmation=1"
+           class="hover:text-orange-500 transition">
           Subscribe
         </a>
-        <a
-          href="/all"
-          class="hover:text-orange-500">
-            Episodes
+        <a href="/all" class="hover:text-orange-500 transition">
+          Episodes
         </a>
       </nav>
     </div>

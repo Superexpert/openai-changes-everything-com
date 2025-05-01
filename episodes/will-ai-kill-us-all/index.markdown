@@ -6,7 +6,7 @@ episode_id: "will-ai-kill-us-all"
 ## AI Alignment and Existential Risk: A Conversation with David Manheim
 
 ### Understanding the AI Alignment Problem
-In this episode of the *OpenAI Changes Everything* podcast, host Stephen Walther speaks with David Manheim, an expert in existential risk and AI alignment. David discusses why building AI systems smarter than humans without proper safeguards can lead to catastrophic outcomes, highlighting the importance of safe and aligned AI development.
+In this episode of the *Move 37 Podcast* podcast, host Stephen Walther speaks with David Manheim, an expert in existential risk and AI alignment. David discusses why building AI systems smarter than humans without proper safeguards can lead to catastrophic outcomes, highlighting the importance of safe and aligned AI development.
 
 ### Who is David Manheim?
 David Manheim is a renowned researcher and policy advisor focusing on mitigating large-scale risks to humanity, specifically in biosecurity and artificial intelligence. He was an original "superforecaster" with the Good Judgment Project and currently leads policy and research at ALTER (Association for Long-term Existence and Resilience).

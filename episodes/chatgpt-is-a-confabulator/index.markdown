@@ -5,7 +5,7 @@ episode_id: "chatgpt-is-a-confabulator"
 
 ## Understanding Generative AI as a Confabulator: A New Paradigm with Kurt Cagle
 
-In this episode of *OpenAI Changes Everything*, host Steven Walther welcomes Kurt Cagle, visionary editor-in-chief of *The Cagle Report*, for a deep discussion on generative AI and its implications. Cagle offers a compelling argument that generative AI tools like ChatGPT should not be viewed simply as databases or search engines. Instead, he introduces the term "confabulator," explaining that these AI models create narratives rather than merely retrieving factual data.
+In this episode of *Move 37 Podcast*, host Steven Walther welcomes Kurt Cagle, visionary editor-in-chief of *The Cagle Report*, for a deep discussion on generative AI and its implications. Cagle offers a compelling argument that generative AI tools like ChatGPT should not be viewed simply as databases or search engines. Instead, he introduces the term "confabulator," explaining that these AI models create narratives rather than merely retrieving factual data.
 
 ### Key Highlights:
 

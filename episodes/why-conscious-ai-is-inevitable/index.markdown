@@ -5,9 +5,9 @@ episode_id: "why-conscious-ai-is-inevitable"
 
 # Exploring the Hard Problem of Consciousness with Lenore and Manuel Blum
 
-**Podcast Episode Summary – OpenAI Changes Everything Podcast**
+**Podcast Episode Summary – Move 37 Podcast Podcast**
 
-In this fascinating episode of the *OpenAI Changes Everything Podcast*, host **Stephen Walther** engages in a deep and illuminating conversation with acclaimed computer scientists **Lenore and Manuel Blum**. The episode delves into their groundbreaking **Conscious Turing Machine (CTM)** model, a computational approach offering a compelling explanation of consciousness that spans humans, animals, and potentially artificial intelligence (AI).
+In this fascinating episode of the *Move 37 Podcast Podcast*, host **Stephen Walther** engages in a deep and illuminating conversation with acclaimed computer scientists **Lenore and Manuel Blum**. The episode delves into their groundbreaking **Conscious Turing Machine (CTM)** model, a computational approach offering a compelling explanation of consciousness that spans humans, animals, and potentially artificial intelligence (AI).
 
 ## Meet the Experts
 
@@ -73,5 +73,5 @@ To learn more about their pioneering research, visit:
 
 ---
 
-🎧 **Enjoyed this discussion?** Subscribe to the *OpenAI Changes Everything Podcast* for more insightful explorations into AI, consciousness, and the future of humanity.
+🎧 **Enjoyed this discussion?** Subscribe to the *Move 37 Podcast Podcast* for more insightful explorations into AI, consciousness, and the future of humanity.
 

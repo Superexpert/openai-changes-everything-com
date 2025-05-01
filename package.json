@@ -1,5 +1,5 @@
 {
-  "name": "openai-changes-everything-com",
+  "name": "move37podcast-ai",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Superexpert/openai-changes-everything-com.git"
+    "url": "git+https://github.com/Superexpert/move37podcast-ai.git"
   },
   "keywords": [],
   "author": "",
