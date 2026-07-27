@@ -81,7 +81,12 @@ description: "Podcast on how Generative AI is transforming the future. Interview
         <img src="/assets/guests/matt-lease.jpg" alt="Matt Lease"  class="rounded-full w-36 h-36 object-cover shadow-lg border-4 border-orange-300 mb-4 transform transition duration-300 hover:scale-105 hover:shadow-2xl">
         <h3 class="text-xl font-semibold text-gray-800">Matt Lease</h3>
         <p class="text-gray-500">Faculty Founder & Leader, Good Systems</p>
-      </div>      
+      </div>
+      <div class="flex flex-col items-center">
+        <img src="/assets/guests/kevin-frazier.jpg" alt="Kevin Frazier" class="rounded-full w-36 h-36 object-cover shadow-lg border-4 border-orange-300 mb-4 transform transition duration-300 hover:scale-105 hover:shadow-2xl">
+        <h3 class="text-xl font-semibold text-gray-800">Kevin Frazier</h3>
+        <p class="text-gray-500">Director, AI Innovation & Law</p>
+      </div>
     </div>
   </div>
 </section>

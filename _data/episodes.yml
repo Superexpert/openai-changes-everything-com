@@ -1,3 +1,30 @@
+- episode: 32
+  id: "will-ai-break-the-career-ladder"
+  title: "Will AI Break the Career Ladder?"
+  guest_name: "Kevin Frazier"
+  guest_affiliation: "Director, AI Innovation and Law Program, UT Austin"
+  youtube_id: "0zVknyrWKtk"
+  summary: "AI may be removing the entry-level work that helps young people start their careers."
+  popular: false
+
+- episode: 31
+  id: "can-ai-close-the-access-to-justice-gap"
+  title: "Can AI Close the Access to Justice Gap?"
+  guest_name: "Drew Simshaw"
+  guest_affiliation: "Professor of Law, UNLV"
+  youtube_id: "Zj30f9UUa-0"
+  summary: "AI could expand access to legal help, but it could also deepen inequality."
+  popular: false
+
+- episode: 30
+  id: "getting-control-of-ai-in-schools"
+  title: "Getting Control of AI in Schools"
+  guest_name: "Priten Soundar-Shah"
+  guest_affiliation: "Author, Ethical Ed Tech"
+  youtube_id: "jjwCDtY7XEc"
+  summary: "How schools can respond to AI through ethical decision-making, digital safety, and educator leadership."
+  popular: false
+
 - episode: 29
   id: "is-chatgpt-making-us-dumber"
   title: "Is ChatGPT Making Us Dumber?"
